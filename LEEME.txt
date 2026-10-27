@@ -1,0 +1,1 @@
+V4.20: Imagenes integradas en index.html. Extraer ZIP y abrir index.html. No requiere archivos WEBP separados. Realice respaldo de datos antes de actualizar.
